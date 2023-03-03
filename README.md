@@ -1,6 +1,6 @@
 # UAM_AG
 
-Algorytmy kwantowe
+semestr 6 UAM - Algorytmy kwantowe
 
 ## Getting started
 
